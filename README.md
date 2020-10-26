@@ -21,3 +21,10 @@ _ _ _
    ![img](images/git2.jpg)
    
    ![img](images/git3.jpg)
+   
+### - [X] *0. Linux, Command Line, HTTP Tools* - I knew many commands in Linux shell. Before this I knew just ls, cd and kill PID.
+   - [X] 0.1 _[Linux Survival (4 modules)]_ - https://linuxsurvival.com/linux-tutorial-introduction/
+   
+   ![img](images/linux1.jpg)
+   
+
