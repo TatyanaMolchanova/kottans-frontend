@@ -28,7 +28,6 @@ I want to learn Front-End better and deeper with your help! Let's go ^-^ party :
 
 - [x] 0.2 _[Linux Survival (4 modules)]_ - https://linuxsurvival.com/linux-tutorial-introduction/
       ![img](images/linux1.jpg)
-
       https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux33.jpg
       https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux44.jpg
       https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux22.jpg
