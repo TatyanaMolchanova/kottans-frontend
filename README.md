@@ -28,9 +28,9 @@ I want to learn Front-End better and deeper with your help! Let's go ^-^ party :
 
 - [x] 0.2 _[Linux Survival (4 modules)]_ - https://linuxsurvival.com/linux-tutorial-introduction/
       ![img](images/linux1.jpg)
-      https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux33.jpg
-      https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux44.jpg
-      https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux22.jpg
-      https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux11.jpg
+      [test1](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux33.jpg)
+      [test2](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux44.jpg)
+      [test3](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux22.jpg)
+      [test4](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux11.jpg)
 
 I knew many commands in Linux shell. Before this I knew just ls, cd and kill PID. Also I read articles and knew many new info about HTTP.
