@@ -38,6 +38,8 @@ I knew many commands in Linux shell. Before this I knew just ls, cd and kill PID
 
 ## Git Collaboration
 
- [test1](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux33.jpg)
-[test2](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux44.jpg)
-[test3](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/linux22.jpg)
+ [Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git.png)
+[Git main learngitbranching.js.org](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git1.jpg)
+[Git remote learngitbranching.js.org](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git2.jpg)
+
+I was impressed by Udacity course, especially by git rename, git rebase, pull requests.
