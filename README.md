@@ -14,15 +14,16 @@ I want to learn Front-End better and deeper with your help! Let's go ^-^ party :
 
 - [x] 0.1 _[Version Control with Git]_ - https://classroom.udacity.com/courses/ud123
 
+ [Git Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/git0-1.jpg)
+
 ![img](images/git0-1.jpg)
 
 - [x] 0.2 _[Main: Introduction Sequence; Remote: Push & Pull -- Git Remotes]_ - https://learngitbranching.js.org/
 
-![img](images/git1.jpg)
+[learngitbranching main](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/git1.jpg)
+      <br>
+[learngitbranching remote](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/git2.jpg)
 
-![img](images/git2.jpg)
-
-![img](images/git3.jpg)
 
 ## Linux CLI, and HTTP
 
