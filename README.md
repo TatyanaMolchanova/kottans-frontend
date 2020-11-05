@@ -16,7 +16,7 @@ I want to learn Front-End better and deeper with your help! Let's go ^-^ party :
 
  [Git Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/images/git0-1.jpg)
 
-![img](images/git0-1.jpg)
+
 
 - [x] 0.2 _[Main: Introduction Sequence; Remote: Push & Pull -- Git Remotes]_ - https://learngitbranching.js.org/
 
