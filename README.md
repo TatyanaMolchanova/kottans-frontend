@@ -45,3 +45,12 @@ I knew many commands in Linux shell. Before this I knew just ls, cd and kill PID
 [Git remote learngitbranching.js.org](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git2.jpg)
 
 I was impressed by Udacity course, especially by git rename, git rebase, pull requests.
+
+
+## Intro to HTML and CSS
+
+ [Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git.png)
+      <br>
+[Codecademy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git1.jpg)
+
+I knew this themes (HTML5, CSS3), just repeated them.
