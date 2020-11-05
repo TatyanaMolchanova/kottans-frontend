@@ -49,8 +49,8 @@ I was impressed by Udacity course, especially by git rename, git rebase, pull re
 
 ## Intro to HTML and CSS
 
- [Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git.png)
+ [Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_html_css_intro/html-css2.png)
       <br>
-[Codecademy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_git_collaboration/git1.jpg)
+[Codecademy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_html_css_intro/css3.png)
 
 I knew this themes (HTML5, CSS3), just repeated them.
