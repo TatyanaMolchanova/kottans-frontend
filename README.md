@@ -59,8 +59,8 @@ I knew this themes (HTML5, CSS3), just repeated them.
 
 ## Responsive Web Design
 
-[Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_html_css_intro/html-css2.png)
+[Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_responsive_web_design/responsive.png)
       <br>
-[Flexbox Froggy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_html_css_intro/css3.png)
+[Flexbox Froggy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_responsive_web_design/froggy.png)
 
 I knew something knew about DPI and responsive patterns.
