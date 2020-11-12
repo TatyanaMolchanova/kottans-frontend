@@ -67,8 +67,24 @@ I knew something knew about DPI and responsive patterns.
 
 ## JS Basics
 
-[Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_responsive_web_design/responsive.png)
+[Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/js.png)
       <br>
-[Flexbox Froggy](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_responsive_web_design/froggy.png)
+[FreeCodeCamp Basic JavaScript1](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js1.png)
+      <br>
+[FreeCodeCamp Basic JavaScript2](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js2.png)
+      <br>
+[FreeCodeCamp Basic JavaScript3](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js3.png)
+      <br>
+[FreeCodeCamp ES6 Challenges](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js4.png)
+      <br>
+[FreeCodeCamp Basic Data Structures](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js5.png)
+      <br>
+[FreeCodeCamp Basic Algorithm Scripting](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js6.png)
+      <br>
+[FreeCodeCamp Functional Programming ](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js7.png)
+      <br>
+[FreeCodeCamp Algorithm Scripting Challenges1](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js8.png)
+      <br>
+[FreeCodeCamp Algorithm Scripting Challenges2](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js9.png)
 
 I was impressed by Udacity course, they taught me different small important details about JS I didn't know before.
