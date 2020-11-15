@@ -88,3 +88,11 @@ I knew something knew about DPI and responsive patterns.
 [FreeCodeCamp Algorithm Scripting Challenges2](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_basics/free-js9.png)
 
 I was impressed by Udacity course, they taught me different small important details about JS I didn't know before.
+
+## DOM
+
+[Udacity](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_dom/perfomance.png)
+      <br>
+[FreeCodeCamp Basic JavaScript1](https://github.com/TatyanaMolchanova/kottans-frontend/blob/main/task_js_dom/freecodecampscript.png)
+      <br>
+I knew a lot of perfomance and other details about js.
